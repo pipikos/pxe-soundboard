@@ -1,0 +1,38 @@
+{
+  "GridRows": 4,
+  "GridCols": 4,
+  "Pads": [
+    {
+      "Label": "Intro",
+      "FilePath": "e:\\sounds\\LevAha3.wav",
+      "Hotkey": "1",
+      "Mode": "Cut",
+      "Volume": 1.0,
+      "Color": "#3b82f6"
+    },
+    {
+      "Label": "Clap",
+      "FilePath": "e:\\sounds\\LevAha7.wav",
+      "Hotkey": "2",
+      "Mode": "Overlap",
+      "Volume": 0.9,
+      "Color": "#16a34a"
+    },
+    {
+      "Label": "Boo",
+      "FilePath": "e:\\sounds\\LevAhahahaKalos.wav",
+      "Hotkey": "3",
+      "Mode": "Overlap",
+      "Volume": 0.8,
+      "Color": "#dc2626"
+    },
+    {
+      "Label": "Jingle",
+      "FilePath": "e:\\sounds\\LevSeEyxaristoume.wav",
+      "Hotkey": "4",
+      "Mode": "Cut",
+      "Volume": 1.0,
+      "Color": "#9333ea"
+    }
+  ]
+}
